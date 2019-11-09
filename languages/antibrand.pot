@@ -148,7 +148,7 @@ msgid "Theme"
 msgstr ""
 
 #. Theme URI of the plugin/theme
-msgid "https://github.com/ControlledChaos/unbranded"
+msgid "https://github.com/ControlledChaos/antibrand"
 msgstr ""
 
 #. Description of the plugin/theme
