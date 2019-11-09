@@ -46,7 +46,7 @@ if ( is_home() && ! is_front_page() ) {
 </head>
 
 <body <?php body_class(); ?>>
-<?php UB_Theme\Tags\before_page(); ?>
+<?php AB_Theme\Tags\before_page(); ?>
 <div id="page" class="site" itemscope="itemscope" itemtype="<?php AB_Theme\Tags\site_schema(); ?>">
 	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'antibrand' ); ?></a>
 

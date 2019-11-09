@@ -28,7 +28,7 @@ $copyright = sprintf(
 	</footer>
 </div>
 
-<?php UB_Theme\Tags\after_page(); ?>
+<?php AB_Theme\Tags\after_page(); ?>
 <?php wp_footer(); ?>
 
 </body>
