@@ -6,7 +6,7 @@
  * and the comment form.
  *
  * @package    WebsiteApp
- * @subpackage UB_Theme
+ * @subpackage AB_Theme
  * @since      1.0.0
  */
 

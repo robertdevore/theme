@@ -7,7 +7,7 @@
  * Description: Does not load the primary sidebar.
  *
  * @package    WebsiteApp
- * @subpackage UB_Theme
+ * @subpackage AB_Theme
  * @since      1.0.0
  */
 

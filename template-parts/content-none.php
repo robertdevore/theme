@@ -3,7 +3,7 @@
  * Template part for displaying a message that posts cannot be found
  *
  * @package    WebsiteApp
- * @subpackage UB_Theme
+ * @subpackage AB_Theme
  * @since      1.0.0
  */
 

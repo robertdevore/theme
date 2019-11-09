@@ -5,14 +5,14 @@
  * A basic starter theme for your website management system.
  *
  * @package    WebsiteApp
- * @subpackage UB_Theme
  * @author     Controlled Chaos Design <greg@ccdzine.com>
  * @link       https://github.com/ControlledChaos/unbranded
+ * @subpackage AB_Theme
  * @since      1.0.0
  */
 
 // Namespace specificity for theme functions & filters.
-namespace UB_Theme\Functions;
+namespace AB_Theme\Functions;
 
 // Restrict direct access.
 if ( ! defined( 'ABSPATH' ) ) {

@@ -3,7 +3,7 @@
  * The sidebar containing the main widget area
  *
  * @package    WebsiteApp
- * @subpackage UB_Theme
+ * @subpackage AB_Theme
  * @since      1.0.0
  */
 
